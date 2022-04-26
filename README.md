@@ -1,6 +1,6 @@
 # Airbnb Clone
 > Built with Next, Tailwind CSS and Mapbox. Based on Sonny Songha's Airbnb Clone tutorial.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://airbnb-clone2-seven.vercel.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
